@@ -20,7 +20,7 @@ Covid Data Exploration
 This project provides a data-driven analysis of COVID-19's global impact, focusing on infection, death, and vaccination rates across countries and continents. Using SQL, it examines total cases vs. deaths to assess mortality, tracks vaccination progress with rolling totals, and compares infection rates relative to population sizes. Aggregated views by continent and globally highlight regions most affected, with advanced SQL techniques like CTEs, temporary tables, and views enabling efficient data handling and insightful summaries
 
 ## Screenshots
-**Screenshots** :https://github.com/Karan-Chuahan-10/American-Coffee-Dashboard/tree/3776926771a6e3a74ed740c7dc70a1867478bf6a/images
+**Screenshots** :https://github.com/Karan-Chuahan-10/Covid-Data-Exploration/tree/6cd0c6f41ca4c21ca8f9b76e3df7177fbc372500/Screenshot
 
 ## Technologies
 - **Microsoft Excel:** Used for data cleaning and preparation, ensuring data accuracy and consistency before further analysis.
